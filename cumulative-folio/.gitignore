@@ -1,0 +1,26 @@
+# Statement files — contain personal financial data, never commit
+statements/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+
+# Virtual environment
+portfolio_env/
+venv/
+env/
+
+# macOS
+.DS_Store
+
+# Streamlit cache
+.streamlit/
+
+# Editor / tooling
+.vscode/
+.claude/
+
+# Jupyter
+.ipynb_checkpoints/
